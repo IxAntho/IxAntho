@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Flor de Tierra's Website](https://flor-de-tierra-1703887692844.web.app)
 
-- 🌱 I’m currently learning **JS Frameworks and advanced Python**
+- 🌱 I’m currently learning **JS Frameworks and intermediate Python**
 
 - 📫 How to reach me **isabar735@icloud.com**
 
