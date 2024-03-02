@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anthony Barrios</h1>
+<h1 align="center">Hi 👋, I'm Gabriel Sanchez</h1>
 <h3 align="center">A passionate frontend developer from Guatemala</h3>
 
 - 🔭 I’m currently working on [Flor de Tierra's Website](https://flor-de-tierra-1703887692844.web.app)
