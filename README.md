@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gabriel Sanchez</h1>
-<h3 align="center">A passionate frontend developer from Guatemala</h3>
+<h3 align="center">A passionate software engineer from Guatemala</h3>
 
 - 🔭 I’m currently working on [Flor de Tierra's Website](https://flor-de-tierra-1703887692844.web.app)
 
-- 🌱 I’m currently learning **JS Frameworks and intermediate Python**
+- 🌱 I’m currently learning **Advanced Back-end and Python for data analysis**
 
-- 📫 How to reach me **isabar735@icloud.com**
+- 📫 How to reach me **ixgabi28@gmail.com**
 
 - ⚡ Fun fact **I love nature as much as Tech**
 
